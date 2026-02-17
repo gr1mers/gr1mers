@@ -49,8 +49,4 @@ const grimers = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gr1mers&theme=radical" />
 </p>
 
-## 👀 Profile Views
-
-![Profile views](https://komarev.com/ghpvc/?username=gr1mers&color=brightgreen&style=flat-square)
-
 

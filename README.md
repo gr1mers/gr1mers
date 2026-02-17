@@ -13,7 +13,7 @@ const grimers = {
     tools: ["Docker", "AWS", "Git", "Figma"] 
   } 
 };
-
+```
 ---
 
 ## 🛠 Languages & Tools

@@ -34,9 +34,16 @@ const grimers = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
+## 👀 Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=gr1mers&color=brightgreen&style=flat-square)
+
+---
 
 ## 📊 GitHub Stats
 
-![Grimers's GitHub stats](https://github-readme-stats.vercel.app/api?username=gr1mers&show_icons=true&theme=radical)
+![gr1mers's GitHub stats](https://github-readme-stats.vercel.app/api?username=gr1mers&show_icons=true&theme=radical&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gr1mers&layout=compact&theme=radical)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gr1mers&theme=radical)

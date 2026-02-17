@@ -33,17 +33,24 @@ const grimers = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-## 👀 Profile Views
 
-![Profile views](https://komarev.com/ghpvc/?username=gr1mers&color=brightgreen&style=flat-square)
 
 ---
+
 
 ## 📊 GitHub Stats
 
-![gr1mers's GitHub stats](https://github-readme-stats.vercel.app/api?username=gr1mers&show_icons=true&theme=radical&include_all_commits=true)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gr1mers&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gr1mers&layout=compact&theme=radical&count_private=true" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gr1mers&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gr1mers&theme=radical" />
+</p>
+
+## 👀 Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=gr1mers&color=brightgreen&style=flat-square)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gr1mers&theme=radical)

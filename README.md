@@ -36,6 +36,6 @@ const grimers = {
 
 ## 📊 GitHub Stats
 
-![Grimmers's GitHub stats](https://github-readme-stats.vercel.app/api?username=grImers&show_icons=true&theme=radical)
+![Grimmers's GitHub stats](https://github-readme-stats.vercel.app/api?username=gr1mers&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grImers&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gr1mers&layout=compact&theme=radical)

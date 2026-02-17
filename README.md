@@ -1,5 +1,7 @@
 ## 🌟 About Me
 
+
+```javascript
 const grimers = { 
   role: "Full-Stack Developer", 
   location: "Uzbekistan uz", 

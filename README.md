@@ -3,12 +3,12 @@
 
 ```javascript
 const grimers = { 
-  role: "Full-Stack Developer", 
+  role: "Front-end Developer", 
   location: "Uzbekistan uz", 
   languages: ["HTML", "CSS", "JavaScript"], 
   technologies: { 
     frontend: ["React", "Next.js"], 
-    tools: [ "Git", "Figma"] 
+    tools: [ "Git", "Figma", "VS Code"] 
   } 
 };
 ```
